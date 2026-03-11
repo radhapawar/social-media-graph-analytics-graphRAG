@@ -280,7 +280,9 @@ The project repository is organized as follows:
 # Authors
 
 **Radha Pawar**
+
 **Rohan Chimne**
+
 **Simoni Dalal**
 **Shivangi Gupta**
 **Alisha Surabhi**
