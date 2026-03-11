@@ -284,7 +284,8 @@ The project repository is organized as follows:
 - **Simoni Dalal**
 - **Shivangi Gupta**
 - **Alisha Surabhi**
-- **Justin Yang** 
+- **Justin Yang**
+   
 MS Business Analytics  
 McCombs School of Business  
 University of Texas at Austin
