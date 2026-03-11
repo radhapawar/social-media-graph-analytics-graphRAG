@@ -277,9 +277,14 @@ The project repository is organized as follows:
 
 ---
 
-# Author
+# Authors
 
-**Rohan Chimne**  
+**Radha Pawar**
+**Rohan Chimne**
+**Simoni Dalal**
+**Shivangi Gupta**
+**Alisha Surabhi**
+**Justin Yang** 
 MS Business Analytics  
 McCombs School of Business  
 University of Texas at Austin
